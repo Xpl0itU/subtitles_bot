@@ -1,0 +1,4 @@
+torch==2.1.1
+transformers==4.35.2
+optimum==1.14.1
+ffmpeg-python @ git+https://github.com/Xpl0itU/ffmpeg-python@982bf87
